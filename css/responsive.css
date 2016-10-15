@@ -18,8 +18,8 @@
         display: none;
     }
 
-	#adbox .adbox-image, 
-	#adbox .details {
+	#destaquebox .destaquebox-image, 
+	#destaquebox .details {
 		max-width:none !important;
 		width:100%;	
 	}
@@ -47,7 +47,7 @@
 	    background: #FFF;	
 	}
 	
-	#adbox {
+	#destaquebox {
 		border:none;	
 	}
 }
