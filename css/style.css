@@ -266,8 +266,8 @@ img {
 #contents p a:hover {
 	color: #8e8265;
 }
-/** Adbox **/
-#adbox {
+/** destaquebox **/
+#destaquebox {
 	min-height: 407px;
 	width: 100%;
 	border-color: #fff;
@@ -276,7 +276,7 @@ img {
 	margin: 0;
 	position: relative;
 }
-#adbox .adbox-image {
+#destaquebox .destaquebox-image {
 	width:100%;
 	max-width:480px;
 	background-repeat:no-repeat;
@@ -288,7 +288,7 @@ img {
 	height:407px;
 	float:left;
 }
-#adbox span.info {
+#destaquebox span.info {
 	display: inline-block;
 	font-size: 14px;
 	text-align: center;
@@ -296,12 +296,12 @@ img {
 	right: 40px;
 	bottom: 25px;
 }
-#adbox span.info em {
+#destaquebox span.info em {
 	display: block;
 	font-size: 24px;
 	font-style: normal;
 }
-#adbox div.details {
+#destaquebox div.details {
 	float:left;
 	background: url('../images/tile-pattern.jpg');
 	min-height: 407px;
@@ -310,19 +310,19 @@ img {
 	text-align:center;
 	display:block;
 }
-#adbox .details .details-container {
+#destaquebox .details .details-container {
 	display:table;
 	height:407px;	
 	width:100%;
 }
 
-#adbox div.details .details-text {
+#destaquebox div.details .details-text {
 	display:table-cell;
 	height:100%;
 	width:100%;
 	vertical-align:middle;	
 }
-#adbox div.details h1 {
+#destaquebox div.details h1 {
 	color: #241b18;
 	font-family: "Oswald";
 	font-size: 34px;
@@ -331,7 +331,7 @@ img {
 	text-align: center;
 	text-shadow: 1px 1px #fff;
 }
-#adbox div.details p {
+#destaquebox div.details p {
 	color: #241b18;
 	font-size: 15px;
 	padding-left: 10px;
